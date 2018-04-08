@@ -1,10 +1,12 @@
 # hw6
 ## задание 1.1
-
+![](https://github.com/zpa176/hw6/blob/master/1.png)
 
 ## задание 1.2
+![](https://github.com/zpa176/hw6/blob/master/2.png)
 
 ## задание 1.3
+![](https://github.com/zpa176/hw6/blob/master/3.png)
 
 Выводы:
 - слово "chips" более популярно в использовании как в Британском, так и в Американском английском, несмотря на то,что оно относится к Американскому английскому.
@@ -12,8 +14,9 @@
 - слово "crisps" (gb.eng.) практически не употребляется в Американском английском, в то время как "chips" (us.eng.) широко используется в Британском.
 
 ## задание 2.1
-
+![](https://github.com/zpa176/hw6/blob/master/4.png)
 
 ## задание 2.2
+![](https://github.com/zpa176/hw6/blob/master/5.png)
 
 Оба глагола могут использоваться с object "ship"; steer kite; drive force.
